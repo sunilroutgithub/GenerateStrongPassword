@@ -1,1 +1,1 @@
-# GenerateStrongPassword
+# GenerateStrongPassword using C++
